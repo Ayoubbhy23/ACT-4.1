@@ -1,0 +1,64 @@
+{
+   "Evenements": {
+      "Evenement": {
+         "titre": "fete privee",
+         "theme": "culturel",
+         "date": "08-08-2022",
+         "lieu": "manhattan club",
+         "budget": "10000 DNT",
+         "activites": {
+            "activite": [
+               {
+                  "titreact": "lancement jeu de lumiere",
+                  "dureeact": "cinq minutes"
+               },
+               {
+                  "titreact": "deeguisement",
+                  "dureeact": "deux heures"
+               },
+               {
+                  "titreact": "caraoke",
+                  "dureeact": "une heure"
+               }
+            ]
+         },
+         "participants": {
+            "invites": {
+               "invite": [
+                  {
+                     "nominv": "julia marcel",
+                     "IDinv": "01",
+                     "NEinv": "maison bonheur"
+                  },
+                  {
+                     "nominv": "ak tifu",
+                     "IDinv": "02",
+                     "NEinv": "IFT"
+                  },
+                  {
+                     "nominv": "cherif hcin",
+                     "IDinv": "03",
+                     "NEinv": "la fiesta"
+                  }
+               ]
+            },
+            "intervenants": {
+               "intervenant": [
+                  {
+                     "nomint": "paulo coelho",
+                     "IDint": "01",
+                     "NEint": "NA",
+                     "langue": "francais"
+                  },
+                  {
+                     "nomint": "dua lipa",
+                     "IDint": "02",
+                     "NEint": "NA",
+                     "langue": "francais"
+                  }
+               ]
+            }
+         }
+      }
+   }
+}

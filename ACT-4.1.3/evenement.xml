@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<Evenements>
+
+  <Evenement>
+    <titre>fete privee</titre>
+    <theme>culturel</theme>
+    <date>08-08-2022</date>
+    <lieu>manhattan club</lieu>
+    <budget>10000 DNT</budget>
+    <activites>
+      <activite>
+         <titreact>lancement jeu de lumiere</titreact>
+         <dureeact>cinq minutes</dureeact>
+      </activite>
+      <activite>
+         <titreact>deguisement</titreact>
+         <dureeact>deux heures</dureeact>
+       </activite>
+      <activite>
+         <titreact>caraoke</titreact>
+         <dureeact>une heure</dureeact>
+      </activite>
+    </activites>
+    <participants>
+
+      <invites>
+       <invite>
+         <nominv>julia marcel</nominv>
+         <IDinv>01</IDinv>
+         <NEinv>maison bonheur</NEinv>
+       </invite>
+       <invite>
+         <nominv>mak tifu</nominv>
+         <IDinv>02</IDinv>
+         <NEinv>IFT</NEinv>
+       </invite>
+       <invite>
+         <nominv>cherif hcin</nominv>
+         <IDinv>03</IDinv>
+         <NEinv>la fiesta</NEinv>
+       </invite>
+      </invites>
+
+      <intervenants>
+        <intervenant>
+          <nomint>paulo coelho</nomint>
+          <IDint>01</IDint>
+          <NEint>NA</NEint>
+          <langue>francais</langue>
+        </intervenant>
+        <intervenant>
+          <nomint>dua lipa</nomint>
+          <IDint>02</IDint>
+          <NEint>NA</NEint>
+          <langue>francais</langue>
+        </intervenant>
+      </intervenants>
+    </participants>
+  </Evenement>
+</Evenements>
